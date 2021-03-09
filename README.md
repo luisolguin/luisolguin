@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, Luis J. Olguin 👋
+But you can tell me just Luis Or Mr. Olguin. 
 <!--
 **luisolguin/luisolguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 I’m currently learning Docker, and Web tecnologies
+- 👯 I’m looking to collaborate on IOT stuffs
+- 💬 Ask me about C/C++
+- ⚡ Fun fact: I'm really hilarious
