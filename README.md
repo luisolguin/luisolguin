@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on IOT stuffs
 - 💬 Ask me about C/C++
 - ⚡ Fun fact: I'm really hilarious
+
+![Codewars](https://github.r2v.ch/codewars?user=luisolguin&stroke=%20AF8F)
