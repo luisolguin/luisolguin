@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about C/C++
 - ⚡ Fun fact: I'm really hilarious
 
-![Codewars](https://github.r2v.ch/codewars?user=luisolguin&stroke=%20AF8F)
+![Codewars](https://github.r2v.ch/codewars?user=luisolguin&top_languages=true&stroke=%23b362ff&theme=solarized_dark)
